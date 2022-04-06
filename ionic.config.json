@@ -1,0 +1,7 @@
+{
+  "name": "ionic_deploy_add_example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
